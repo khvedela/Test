@@ -7,7 +7,8 @@ module.exports = {
   theme: {
     extend: {},
     backgroundImage: {
-      'landing': 'url(../src/assets/landing.jpg)'
+      'landing': 'url(../src/assets/landing.jpg)',
+      'about': 'url(../src/assets/about.jpg)'
     },
     screens: {
       'tablet': '640px',

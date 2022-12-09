@@ -5,7 +5,7 @@ import Landing from './components/Landing'
 function App() {
 
   return (
-    <div className="App">
+    <div className="App snap-x">
       <Landing />
       <About />
     </div>
